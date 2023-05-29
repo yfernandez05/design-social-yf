@@ -1,0 +1,16 @@
+{
+    "name": "yhonatanf/socialsyf",
+    "description": "Redes sociales flotante - YFC",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "yhonatanf\\socialsyf\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.3",
+        "laravel/framework": "^7.30",
+        "twbs/bootstrap": "^4.0"
+    }
+}

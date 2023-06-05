@@ -9,8 +9,8 @@ Sección redes sociales , contacto WhatsApp, Facebook, Messenger etc. (html,sass
 ### Include blade social in section general blade
 @include('layouts.partials.utils.floatingsocialyf')
 ### Import style in general app.scss
-@import 'social';
+@import 'socialyf';
 ### Import js in general app.js
-import './utils/socials';
+import './utils/socialsyf';
 ### Mix Asset Management
 .copyDirectory('resources/sound', 'public/sound')

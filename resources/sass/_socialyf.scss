@@ -9,6 +9,9 @@
   right: 16px;
   z-index: 100;
   
+  .hide {
+    display: none !important;
+  }
 
   .whatsapp-icon {
       display: flex;
